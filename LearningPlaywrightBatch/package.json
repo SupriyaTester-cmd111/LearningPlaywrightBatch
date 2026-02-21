@@ -1,0 +1,19 @@
+{
+  "name": "LearningPlaywrightBatch",
+  "version": "1.0.0",
+  "description": "A project for learning Playwright testing framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": [
+    "playwright",
+    "testing",
+    "automation"
+  ],
+  "author": "SupriyaTester",
+  "license": "MIT",
+  "devDependencies": {
+    "playwright": "^1.0.0"
+  }
+}
